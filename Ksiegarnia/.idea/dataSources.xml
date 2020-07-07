@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="afe9301a-0bf2-4197-96b1-285924f75a73">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Emiliano/IdeaProjects/Ksiegarnia/Ksiegarnia/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/jpa2020?createDatabaseIfNotExist=TRUE&amp;useUnicode=yes&amp;characterEncoding=UTF-8&amp;serverTimezone=Europe/Warsaw</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="myDataSource" uuid="83afd50f-d913-4e3c-97e7-e4ca01486d62">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>c3p0
+
+C:/Users/Emiliano/IdeaProjects/Ksiegarnia/Ksiegarnia/src/main/webapp/WEB-INF/crud.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/jpa2020?createDatabaseIfNotExist=TRUE&amp;useUnicode=yes&amp;characterEncoding=UTF-8&amp;serverTimezone=Europe/Warsaw</jdbc-url>
+    </data-source>
+  </component>
+</project>
